@@ -1,11 +1,11 @@
 # Interview-Trueway-Office
 
-🧪 Prueba Técnica: Sistema de Gestión de Gastos e Ingresos
-🎯 Objetivo: Crear una aplicación web full stack que permita a los usuarios registrar, visualizar y gestionar ingresos y gastos, categorizados por tipo, área y proveedor.
+## 🧪 Prueba Técnica: Sistema de Gestión de Gastos e Ingresos
+## 🎯 Objetivo: Crear una aplicación web full stack que permita a los usuarios registrar, visualizar y gestionar ingresos y gastos, categorizados por tipo, área y proveedor.
 
-🧱 Requisitos del Proyecto
+### 🧱 Requisitos del Proyecto
 
-🖥️ Frontend
+### 🖥️ Frontend
 Usar React + TypeScript + Estilizado con Tailwind CSS
 
 Debe incluir:
@@ -27,7 +27,7 @@ Filtros por:
 
 Incluir Gráfica simple de resumen mensual (chart.js).
 
-🗄️ Backend
+### 🗄️ Backend
 Usar Node.js + Express + Sequelize (ORM) + PostgreSQL (DB)
 
 Debe incluir:
@@ -37,15 +37,19 @@ Rutas RESTful para:
 - CRUD de gastos e ingresos.
 - CRUD de categorías, áreas y proveedores.
 
-Validación de datos.
+Definir los 5 modelos:
 
-- Middleware básico para logs y manejo de errores.
+- Gastos
+- Ingresos
+- Categorias
+- Areas
+- Proovedores
 
 Relación entre modelos:
 
 - Un gasto o ingreso pertenece a una categoría, área y proveedor.
 
-✅ Criterios de Evaluación
+## ✅ Criterios de Evaluación
 
 - Uso adecuado de tecnologías solicitadas.
 - Organización del código y estructura del proyecto.
