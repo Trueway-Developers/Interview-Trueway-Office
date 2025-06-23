@@ -55,7 +55,7 @@ Relación entre modelos:
 - Documentación clara.
 - UI limpia y funcional (no es necesario diseño avanzado).
 
-Bonus:
+## ➕ Bonus:
 
 - Implementación de autenticación básica.
 - Tests unitarios o de integración.
