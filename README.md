@@ -1,6 +1,4 @@
-# Interview-Trueway-Office
-
-## 🧪 Prueba Técnica: Sistema de Gestión de Gastos e Ingresos
+# 🧪 Prueba Técnica: Sistema de Gestión de Gastos e Ingresos
 ## 🎯 Objetivo: Crear una aplicación web full stack que permita a los usuarios registrar, visualizar y gestionar ingresos y gastos, categorizados por tipo, área y proveedor.
 
 ### 🧱 Requisitos del Proyecto
