@@ -1,6 +1,6 @@
 # 🧪 Prueba Técnica: Sistema de Gestión de Gastos e Ingresos
 
-#### El objetivo de esta prueba es crear una aplicación web full stack que permita a los usuarios registrar, visualizar y gestionar ingresos y gastos, categorizados por tipo, área y proveedor.
+### El objetivo de esta prueba es crear una aplicación web full stack que permita a los usuarios registrar, visualizar y gestionar ingresos y gastos, categorizados por tipo, área y proveedor.
 
 ## 🖥️ Frontend
 Usar React + TypeScript + Estilizado con Tailwind CSS
