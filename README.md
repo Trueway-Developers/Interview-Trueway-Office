@@ -1,7 +1,8 @@
 # 🧪 Prueba Técnica: Sistema de Gestión de Gastos e Ingresos
+
 ## 🎯 Objetivo: Crear una aplicación web full stack que permita a los usuarios registrar, visualizar y gestionar ingresos y gastos, categorizados por tipo, área y proveedor.
 
-### 🖥️ Frontend
+## 🖥️ Frontend
 Usar React + TypeScript + Estilizado con Tailwind CSS
 
 Debe incluir:
@@ -23,7 +24,7 @@ Filtros por:
 
 Incluir Gráfica simple de resumen mensual (chart.js).
 
-### 🗄️ Backend
+## 🗄️ Backend
 Usar Node.js + Express + Sequelize (ORM) + PostgreSQL (DB)
 
 Debe incluir:
