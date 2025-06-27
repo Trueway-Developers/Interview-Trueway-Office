@@ -3,7 +3,7 @@
 ### El objetivo de esta prueba es crear una aplicación web full stack que permita a los usuarios registrar, visualizar y gestionar ingresos y gastos, categorizados por tipo, área y proveedor.
 
 ## 🖥️ Frontend
-Usar React + TypeScript + Estilizado con Tailwind CSS
+Usar React + Vite + TypeScript + Estilizado con Tailwind CSS
 
 Debe incluir:
 
